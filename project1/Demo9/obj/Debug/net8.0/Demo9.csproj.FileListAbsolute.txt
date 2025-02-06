@@ -1,0 +1,14 @@
+C:\Users\FOUDA\source\repos\Demo9\bin\Debug\net8.0\Demo9.exe
+C:\Users\FOUDA\source\repos\Demo9\bin\Debug\net8.0\Demo9.deps.json
+C:\Users\FOUDA\source\repos\Demo9\bin\Debug\net8.0\Demo9.runtimeconfig.json
+C:\Users\FOUDA\source\repos\Demo9\bin\Debug\net8.0\Demo9.dll
+C:\Users\FOUDA\source\repos\Demo9\bin\Debug\net8.0\Demo9.pdb
+C:\Users\FOUDA\source\repos\Demo9\obj\Debug\net8.0\Demo9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FOUDA\source\repos\Demo9\obj\Debug\net8.0\Demo9.AssemblyInfoInputs.cache
+C:\Users\FOUDA\source\repos\Demo9\obj\Debug\net8.0\Demo9.AssemblyInfo.cs
+C:\Users\FOUDA\source\repos\Demo9\obj\Debug\net8.0\Demo9.csproj.CoreCompileInputs.cache
+C:\Users\FOUDA\source\repos\Demo9\obj\Debug\net8.0\Demo9.dll
+C:\Users\FOUDA\source\repos\Demo9\obj\Debug\net8.0\refint\Demo9.dll
+C:\Users\FOUDA\source\repos\Demo9\obj\Debug\net8.0\Demo9.pdb
+C:\Users\FOUDA\source\repos\Demo9\obj\Debug\net8.0\Demo9.genruntimeconfig.cache
+C:\Users\FOUDA\source\repos\Demo9\obj\Debug\net8.0\ref\Demo9.dll

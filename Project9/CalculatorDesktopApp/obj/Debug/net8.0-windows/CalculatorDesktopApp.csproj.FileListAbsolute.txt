@@ -1,0 +1,16 @@
+C:\Users\FOUDA\source\repos\CalculatorDesktopApp\CalculatorDesktopApp\bin\Debug\net8.0-windows\CalculatorDesktopApp.exe
+C:\Users\FOUDA\source\repos\CalculatorDesktopApp\CalculatorDesktopApp\bin\Debug\net8.0-windows\CalculatorDesktopApp.deps.json
+C:\Users\FOUDA\source\repos\CalculatorDesktopApp\CalculatorDesktopApp\bin\Debug\net8.0-windows\CalculatorDesktopApp.runtimeconfig.json
+C:\Users\FOUDA\source\repos\CalculatorDesktopApp\CalculatorDesktopApp\bin\Debug\net8.0-windows\CalculatorDesktopApp.dll
+C:\Users\FOUDA\source\repos\CalculatorDesktopApp\CalculatorDesktopApp\bin\Debug\net8.0-windows\CalculatorDesktopApp.pdb
+C:\Users\FOUDA\source\repos\CalculatorDesktopApp\CalculatorDesktopApp\obj\Debug\net8.0-windows\CalculatorDesktopApp.Form1.resources
+C:\Users\FOUDA\source\repos\CalculatorDesktopApp\CalculatorDesktopApp\obj\Debug\net8.0-windows\CalculatorDesktopApp.csproj.GenerateResource.cache
+C:\Users\FOUDA\source\repos\CalculatorDesktopApp\CalculatorDesktopApp\obj\Debug\net8.0-windows\CalculatorDesktopApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FOUDA\source\repos\CalculatorDesktopApp\CalculatorDesktopApp\obj\Debug\net8.0-windows\CalculatorDesktopApp.AssemblyInfoInputs.cache
+C:\Users\FOUDA\source\repos\CalculatorDesktopApp\CalculatorDesktopApp\obj\Debug\net8.0-windows\CalculatorDesktopApp.AssemblyInfo.cs
+C:\Users\FOUDA\source\repos\CalculatorDesktopApp\CalculatorDesktopApp\obj\Debug\net8.0-windows\CalculatorDesktopApp.csproj.CoreCompileInputs.cache
+C:\Users\FOUDA\source\repos\CalculatorDesktopApp\CalculatorDesktopApp\obj\Debug\net8.0-windows\CalculatorDesktopApp.dll
+C:\Users\FOUDA\source\repos\CalculatorDesktopApp\CalculatorDesktopApp\obj\Debug\net8.0-windows\refint\CalculatorDesktopApp.dll
+C:\Users\FOUDA\source\repos\CalculatorDesktopApp\CalculatorDesktopApp\obj\Debug\net8.0-windows\CalculatorDesktopApp.pdb
+C:\Users\FOUDA\source\repos\CalculatorDesktopApp\CalculatorDesktopApp\obj\Debug\net8.0-windows\CalculatorDesktopApp.genruntimeconfig.cache
+C:\Users\FOUDA\source\repos\CalculatorDesktopApp\CalculatorDesktopApp\obj\Debug\net8.0-windows\ref\CalculatorDesktopApp.dll

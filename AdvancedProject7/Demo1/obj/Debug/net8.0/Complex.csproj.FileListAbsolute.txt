@@ -1,0 +1,14 @@
+C:\Users\FOUDA\source\repos\AdvancedProject7\Demo1\bin\Debug\net8.0\Complex.exe
+C:\Users\FOUDA\source\repos\AdvancedProject7\Demo1\bin\Debug\net8.0\Complex.deps.json
+C:\Users\FOUDA\source\repos\AdvancedProject7\Demo1\bin\Debug\net8.0\Complex.runtimeconfig.json
+C:\Users\FOUDA\source\repos\AdvancedProject7\Demo1\bin\Debug\net8.0\Complex.dll
+C:\Users\FOUDA\source\repos\AdvancedProject7\Demo1\bin\Debug\net8.0\Complex.pdb
+C:\Users\FOUDA\source\repos\AdvancedProject7\Demo1\obj\Debug\net8.0\Complex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FOUDA\source\repos\AdvancedProject7\Demo1\obj\Debug\net8.0\Complex.AssemblyInfoInputs.cache
+C:\Users\FOUDA\source\repos\AdvancedProject7\Demo1\obj\Debug\net8.0\Complex.AssemblyInfo.cs
+C:\Users\FOUDA\source\repos\AdvancedProject7\Demo1\obj\Debug\net8.0\Complex.csproj.CoreCompileInputs.cache
+C:\Users\FOUDA\source\repos\AdvancedProject7\Demo1\obj\Debug\net8.0\Complex.dll
+C:\Users\FOUDA\source\repos\AdvancedProject7\Demo1\obj\Debug\net8.0\refint\Complex.dll
+C:\Users\FOUDA\source\repos\AdvancedProject7\Demo1\obj\Debug\net8.0\Complex.pdb
+C:\Users\FOUDA\source\repos\AdvancedProject7\Demo1\obj\Debug\net8.0\Complex.genruntimeconfig.cache
+C:\Users\FOUDA\source\repos\AdvancedProject7\Demo1\obj\Debug\net8.0\ref\Complex.dll

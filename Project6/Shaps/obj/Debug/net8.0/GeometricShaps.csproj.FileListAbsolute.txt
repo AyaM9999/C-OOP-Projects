@@ -1,0 +1,14 @@
+C:\Users\FOUDA\source\repos\Project6\Shaps\bin\Debug\net8.0\GeometricShaps.exe
+C:\Users\FOUDA\source\repos\Project6\Shaps\bin\Debug\net8.0\GeometricShaps.deps.json
+C:\Users\FOUDA\source\repos\Project6\Shaps\bin\Debug\net8.0\GeometricShaps.runtimeconfig.json
+C:\Users\FOUDA\source\repos\Project6\Shaps\bin\Debug\net8.0\GeometricShaps.dll
+C:\Users\FOUDA\source\repos\Project6\Shaps\bin\Debug\net8.0\GeometricShaps.pdb
+C:\Users\FOUDA\source\repos\Project6\Shaps\obj\Debug\net8.0\GeometricShaps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FOUDA\source\repos\Project6\Shaps\obj\Debug\net8.0\GeometricShaps.AssemblyInfoInputs.cache
+C:\Users\FOUDA\source\repos\Project6\Shaps\obj\Debug\net8.0\GeometricShaps.AssemblyInfo.cs
+C:\Users\FOUDA\source\repos\Project6\Shaps\obj\Debug\net8.0\GeometricShaps.csproj.CoreCompileInputs.cache
+C:\Users\FOUDA\source\repos\Project6\Shaps\obj\Debug\net8.0\GeometricShaps.dll
+C:\Users\FOUDA\source\repos\Project6\Shaps\obj\Debug\net8.0\refint\GeometricShaps.dll
+C:\Users\FOUDA\source\repos\Project6\Shaps\obj\Debug\net8.0\GeometricShaps.pdb
+C:\Users\FOUDA\source\repos\Project6\Shaps\obj\Debug\net8.0\GeometricShaps.genruntimeconfig.cache
+C:\Users\FOUDA\source\repos\Project6\Shaps\obj\Debug\net8.0\ref\GeometricShaps.dll

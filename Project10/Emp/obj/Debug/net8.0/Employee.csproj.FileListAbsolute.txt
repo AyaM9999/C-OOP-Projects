@@ -1,0 +1,14 @@
+C:\Users\FOUDA\source\repos\Project10\Emp\bin\Debug\net8.0\Employee.exe
+C:\Users\FOUDA\source\repos\Project10\Emp\bin\Debug\net8.0\Employee.deps.json
+C:\Users\FOUDA\source\repos\Project10\Emp\bin\Debug\net8.0\Employee.runtimeconfig.json
+C:\Users\FOUDA\source\repos\Project10\Emp\bin\Debug\net8.0\Employee.dll
+C:\Users\FOUDA\source\repos\Project10\Emp\bin\Debug\net8.0\Employee.pdb
+C:\Users\FOUDA\source\repos\Project10\Emp\obj\Debug\net8.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FOUDA\source\repos\Project10\Emp\obj\Debug\net8.0\Employee.AssemblyInfoInputs.cache
+C:\Users\FOUDA\source\repos\Project10\Emp\obj\Debug\net8.0\Employee.AssemblyInfo.cs
+C:\Users\FOUDA\source\repos\Project10\Emp\obj\Debug\net8.0\Employee.csproj.CoreCompileInputs.cache
+C:\Users\FOUDA\source\repos\Project10\Emp\obj\Debug\net8.0\Employee.dll
+C:\Users\FOUDA\source\repos\Project10\Emp\obj\Debug\net8.0\refint\Employee.dll
+C:\Users\FOUDA\source\repos\Project10\Emp\obj\Debug\net8.0\Employee.pdb
+C:\Users\FOUDA\source\repos\Project10\Emp\obj\Debug\net8.0\Employee.genruntimeconfig.cache
+C:\Users\FOUDA\source\repos\Project10\Emp\obj\Debug\net8.0\ref\Employee.dll

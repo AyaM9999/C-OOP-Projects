@@ -1,0 +1,16 @@
+C:\Users\FOUDA\source\repos\advanced_project_Desktop Apps\paint2\bin\Debug\net8.0-windows\paint2.exe
+C:\Users\FOUDA\source\repos\advanced_project_Desktop Apps\paint2\bin\Debug\net8.0-windows\paint2.deps.json
+C:\Users\FOUDA\source\repos\advanced_project_Desktop Apps\paint2\bin\Debug\net8.0-windows\paint2.runtimeconfig.json
+C:\Users\FOUDA\source\repos\advanced_project_Desktop Apps\paint2\bin\Debug\net8.0-windows\paint2.dll
+C:\Users\FOUDA\source\repos\advanced_project_Desktop Apps\paint2\bin\Debug\net8.0-windows\paint2.pdb
+C:\Users\FOUDA\source\repos\advanced_project_Desktop Apps\paint2\obj\Debug\net8.0-windows\paint2.Form1.resources
+C:\Users\FOUDA\source\repos\advanced_project_Desktop Apps\paint2\obj\Debug\net8.0-windows\paint2.csproj.GenerateResource.cache
+C:\Users\FOUDA\source\repos\advanced_project_Desktop Apps\paint2\obj\Debug\net8.0-windows\paint2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FOUDA\source\repos\advanced_project_Desktop Apps\paint2\obj\Debug\net8.0-windows\paint2.AssemblyInfoInputs.cache
+C:\Users\FOUDA\source\repos\advanced_project_Desktop Apps\paint2\obj\Debug\net8.0-windows\paint2.AssemblyInfo.cs
+C:\Users\FOUDA\source\repos\advanced_project_Desktop Apps\paint2\obj\Debug\net8.0-windows\paint2.csproj.CoreCompileInputs.cache
+C:\Users\FOUDA\source\repos\advanced_project_Desktop Apps\paint2\obj\Debug\net8.0-windows\paint2.dll
+C:\Users\FOUDA\source\repos\advanced_project_Desktop Apps\paint2\obj\Debug\net8.0-windows\refint\paint2.dll
+C:\Users\FOUDA\source\repos\advanced_project_Desktop Apps\paint2\obj\Debug\net8.0-windows\paint2.pdb
+C:\Users\FOUDA\source\repos\advanced_project_Desktop Apps\paint2\obj\Debug\net8.0-windows\paint2.genruntimeconfig.cache
+C:\Users\FOUDA\source\repos\advanced_project_Desktop Apps\paint2\obj\Debug\net8.0-windows\ref\paint2.dll

@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FOUDA\\source\\repos\\Project6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C07F6DAA-ADEF-4C28-B580-E5377788E096}|Shaps\\GeometricShaps.csproj|c:\\users\\fouda\\source\\repos\\project6\\shaps\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C07F6DAA-ADEF-4C28-B580-E5377788E096}|Shaps\\GeometricShaps.csproj|solutionrelative:shaps\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07F6DAA-ADEF-4C28-B580-E5377788E096}|Shaps\\GeometricShaps.csproj|c:\\users\\fouda\\source\\repos\\project6\\shaps\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C07F6DAA-ADEF-4C28-B580-E5377788E096}|Shaps\\GeometricShaps.csproj|solutionrelative:shaps\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07F6DAA-ADEF-4C28-B580-E5377788E096}|Shaps\\GeometricShaps.csproj|c:\\users\\fouda\\source\\repos\\project6\\shaps\\cube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C07F6DAA-ADEF-4C28-B580-E5377788E096}|Shaps\\GeometricShaps.csproj|solutionrelative:shaps\\cube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07F6DAA-ADEF-4C28-B580-E5377788E096}|Shaps\\GeometricShaps.csproj|c:\\users\\fouda\\source\\repos\\project6\\shaps\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C07F6DAA-ADEF-4C28-B580-E5377788E096}|Shaps\\GeometricShaps.csproj|solutionrelative:shaps\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07F6DAA-ADEF-4C28-B580-E5377788E096}|Shaps\\GeometricShaps.csproj|c:\\users\\fouda\\source\\repos\\project6\\shaps\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C07F6DAA-ADEF-4C28-B580-E5377788E096}|Shaps\\GeometricShaps.csproj|solutionrelative:shaps\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A3CE59-4578-4F4B-B17B-686ACB214379}|GeometricShaps\\StructComplex.csproj|c:\\users\\fouda\\source\\repos\\project6\\geometricshaps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A3CE59-4578-4F4B-B17B-686ACB214379}|GeometricShaps\\StructComplex.csproj|solutionrelative:geometricshaps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A3CE59-4578-4F4B-B17B-686ACB214379}|GeometricShaps\\StructComplex.csproj|c:\\users\\fouda\\source\\repos\\project6\\geometricshaps\\complexnumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A3CE59-4578-4F4B-B17B-686ACB214379}|GeometricShaps\\StructComplex.csproj|solutionrelative:geometricshaps\\complexnumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07F6DAA-ADEF-4C28-B580-E5377788E096}|Shaps\\GeometricShaps.csproj|c:\\users\\fouda\\source\\repos\\project6\\shaps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C07F6DAA-ADEF-4C28-B580-E5377788E096}|Shaps\\GeometricShaps.csproj|solutionrelative:shaps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07F6DAA-ADEF-4C28-B580-E5377788E096}|Shaps\\GeometricShaps.csproj|c:\\users\\fouda\\source\\repos\\project6\\shaps\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C07F6DAA-ADEF-4C28-B580-E5377788E096}|Shaps\\GeometricShaps.csproj|solutionrelative:shaps\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FOUDA\\source\\repos\\Project6\\Shaps\\Program.cs",
+              "RelativeDocumentMoniker": "Shaps\\Program.cs",
+              "ToolTip": "C:\\Users\\FOUDA\\source\\repos\\Project6\\Shaps\\Program.cs",
+              "RelativeToolTip": "Shaps\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T07:07:05.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\Users\\FOUDA\\source\\repos\\Project6\\Shaps\\Triangle.cs",
+              "RelativeDocumentMoniker": "Shaps\\Triangle.cs",
+              "ToolTip": "C:\\Users\\FOUDA\\source\\repos\\Project6\\Shaps\\Triangle.cs",
+              "RelativeToolTip": "Shaps\\Triangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T07:07:05.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\FOUDA\\source\\repos\\Project6\\Shaps\\Circle.cs",
+              "RelativeDocumentMoniker": "Shaps\\Circle.cs",
+              "ToolTip": "C:\\Users\\FOUDA\\source\\repos\\Project6\\Shaps\\Circle.cs",
+              "RelativeToolTip": "Shaps\\Circle.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAUwA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T07:07:05.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Square.cs",
+              "DocumentMoniker": "C:\\Users\\FOUDA\\source\\repos\\Project6\\Shaps\\Square.cs",
+              "RelativeDocumentMoniker": "Shaps\\Square.cs",
+              "ToolTip": "C:\\Users\\FOUDA\\source\\repos\\Project6\\Shaps\\Square.cs",
+              "RelativeToolTip": "Shaps\\Square.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAswBkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T07:07:05.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cube.cs",
+              "DocumentMoniker": "C:\\Users\\FOUDA\\source\\repos\\Project6\\Shaps\\Cube.cs",
+              "RelativeDocumentMoniker": "Shaps\\Cube.cs",
+              "ToolTip": "C:\\Users\\FOUDA\\source\\repos\\Project6\\Shaps\\Cube.cs",
+              "RelativeToolTip": "Shaps\\Cube.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAywBcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T07:07:05.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\FOUDA\\source\\repos\\Project6\\Shaps\\Shape.cs",
+              "RelativeDocumentMoniker": "Shaps\\Shape.cs",
+              "ToolTip": "C:\\Users\\FOUDA\\source\\repos\\Project6\\Shaps\\Shape.cs",
+              "RelativeToolTip": "Shaps\\Shape.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAUwBYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T07:07:05.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\FOUDA\\source\\repos\\Project6\\Shaps\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Shaps\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\FOUDA\\source\\repos\\Project6\\Shaps\\Rectangle.cs",
+              "RelativeToolTip": "Shaps\\Rectangle.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAswBcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T07:07:05.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ComplexNumbers.cs",
+              "DocumentMoniker": "C:\\Users\\FOUDA\\source\\repos\\Project6\\GeometricShaps\\ComplexNumbers.cs",
+              "RelativeDocumentMoniker": "GeometricShaps\\ComplexNumbers.cs",
+              "ToolTip": "C:\\Users\\FOUDA\\source\\repos\\Project6\\GeometricShaps\\ComplexNumbers.cs",
+              "RelativeToolTip": "GeometricShaps\\ComplexNumbers.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAUwCoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T07:06:46.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FOUDA\\source\\repos\\Project6\\GeometricShaps\\Program.cs",
+              "RelativeDocumentMoniker": "GeometricShaps\\Program.cs",
+              "ToolTip": "C:\\Users\\FOUDA\\source\\repos\\Project6\\GeometricShaps\\Program.cs",
+              "RelativeToolTip": "GeometricShaps\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T04:54:17.566Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

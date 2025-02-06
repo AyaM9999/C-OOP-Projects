@@ -1,0 +1,4 @@
+C:\Users\FOUDA\source\repos\Project8_bookQuestion\question2\obj\Debug\net8.0\question2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FOUDA\source\repos\Project8_bookQuestion\question2\obj\Debug\net8.0\question2.AssemblyInfoInputs.cache
+C:\Users\FOUDA\source\repos\Project8_bookQuestion\question2\obj\Debug\net8.0\question2.AssemblyInfo.cs
+C:\Users\FOUDA\source\repos\Project8_bookQuestion\question2\obj\Debug\net8.0\question2.csproj.CoreCompileInputs.cache

@@ -1,0 +1,212 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FOUDA\\source\\repos\\question1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{335C3B88-D359-438C-B932-EA28E61A346A}|question8\\question8.csproj|c:\\users\\fouda\\source\\repos\\question1\\question8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{335C3B88-D359-438C-B932-EA28E61A346A}|question8\\question8.csproj|solutionrelative:question8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395CEC6D-70E5-4515-891E-41390F5D9E92}|question11\\question11.csproj|c:\\users\\fouda\\source\\repos\\question1\\question11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395CEC6D-70E5-4515-891E-41390F5D9E92}|question11\\question11.csproj|solutionrelative:question11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8F979E-FAA6-4459-8BAD-F087D90DA210}|question12\\question12.csproj|c:\\users\\fouda\\source\\repos\\question1\\question12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8F979E-FAA6-4459-8BAD-F087D90DA210}|question12\\question12.csproj|solutionrelative:question12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28A8CD3B-EC13-4653-9EAE-082784A59824}|question10\\question10.csproj|c:\\users\\fouda\\source\\repos\\question1\\question10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28A8CD3B-EC13-4653-9EAE-082784A59824}|question10\\question10.csproj|solutionrelative:question10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DCD4CA8-0238-4EE1-88CE-551E238E4FDB}|question7\\question7.csproj|c:\\users\\fouda\\source\\repos\\question1\\question7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DCD4CA8-0238-4EE1-88CE-551E238E4FDB}|question7\\question7.csproj|solutionrelative:question7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557D3750-A094-4873-B1A7-685D6F582DE2}|question9\\question9.csproj|c:\\users\\fouda\\source\\repos\\question1\\question9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557D3750-A094-4873-B1A7-685D6F582DE2}|question9\\question9.csproj|solutionrelative:question9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA547E2D-1725-4AE2-8A3E-1660A059B3C7}|question6\\question6.csproj|c:\\users\\fouda\\source\\repos\\question1\\question6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA547E2D-1725-4AE2-8A3E-1660A059B3C7}|question6\\question6.csproj|solutionrelative:question6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E062829-6625-4A76-B674-AB53827028F5}|question1\\question1.csproj|c:\\users\\fouda\\source\\repos\\question1\\question1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E062829-6625-4A76-B674-AB53827028F5}|question1\\question1.csproj|solutionrelative:question1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332879CA-66C8-4EA8-BF14-22DD0C779D28}|question5\\question5.csproj|c:\\users\\fouda\\source\\repos\\question1\\question5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332879CA-66C8-4EA8-BF14-22DD0C779D28}|question5\\question5.csproj|solutionrelative:question5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3A2B19-9B48-478D-ABAA-1BEAEA247852}|question4\\question4.csproj|c:\\users\\fouda\\source\\repos\\question1\\question4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3A2B19-9B48-478D-ABAA-1BEAEA247852}|question4\\question4.csproj|solutionrelative:question4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7327D7A8-BF52-458F-B7B7-A78BDDB84CA6}|question2\\question2.csproj|c:\\users\\fouda\\source\\repos\\question1\\question2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7327D7A8-BF52-458F-B7B7-A78BDDB84CA6}|question2\\question2.csproj|solutionrelative:question2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E292751-A061-469F-BD7F-CF3B8F40C718}|question3\\question3.csproj|c:\\users\\fouda\\source\\repos\\question1\\question3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E292751-A061-469F-BD7F-CF3B8F40C718}|question3\\question3.csproj|solutionrelative:question3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FOUDA\\source\\repos\\question1\\question12\\Program.cs",
+              "RelativeDocumentMoniker": "question12\\Program.cs",
+              "ToolTip": "C:\\Users\\FOUDA\\source\\repos\\question1\\question12\\Program.cs",
+              "RelativeToolTip": "question12\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T11:55:57.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FOUDA\\source\\repos\\question1\\question11\\Program.cs",
+              "RelativeDocumentMoniker": "question11\\Program.cs",
+              "ToolTip": "C:\\Users\\FOUDA\\source\\repos\\question1\\question11\\Program.cs",
+              "RelativeToolTip": "question11\\Program.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAqwEwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T11:55:25.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FOUDA\\source\\repos\\question1\\question10\\Program.cs",
+              "RelativeDocumentMoniker": "question10\\Program.cs",
+              "ToolTip": "C:\\Users\\FOUDA\\source\\repos\\question1\\question10\\Program.cs",
+              "RelativeToolTip": "question10\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwBUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T11:36:50.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FOUDA\\source\\repos\\question1\\question9\\Program.cs",
+              "RelativeDocumentMoniker": "question9\\Program.cs",
+              "ToolTip": "C:\\Users\\FOUDA\\source\\repos\\question1\\question9\\Program.cs",
+              "RelativeToolTip": "question9\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T10:07:27.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FOUDA\\source\\repos\\question1\\question8\\Program.cs",
+              "RelativeDocumentMoniker": "question8\\Program.cs",
+              "ToolTip": "C:\\Users\\FOUDA\\source\\repos\\question1\\question8\\Program.cs",
+              "RelativeToolTip": "question8\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAqwEwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T21:07:32.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FOUDA\\source\\repos\\question1\\question7\\Program.cs",
+              "RelativeDocumentMoniker": "question7\\Program.cs",
+              "ToolTip": "C:\\Users\\FOUDA\\source\\repos\\question1\\question7\\Program.cs",
+              "RelativeToolTip": "question7\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAiwDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T19:47:24.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FOUDA\\source\\repos\\question1\\question6\\Program.cs",
+              "RelativeDocumentMoniker": "question6\\Program.cs",
+              "ToolTip": "C:\\Users\\FOUDA\\source\\repos\\question1\\question6\\Program.cs",
+              "RelativeToolTip": "question6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T18:47:04.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FOUDA\\source\\repos\\question1\\question5\\Program.cs",
+              "RelativeDocumentMoniker": "question5\\Program.cs",
+              "ToolTip": "C:\\Users\\FOUDA\\source\\repos\\question1\\question5\\Program.cs",
+              "RelativeToolTip": "question5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T18:10:58.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FOUDA\\source\\repos\\question1\\question4\\Program.cs",
+              "RelativeDocumentMoniker": "question4\\Program.cs",
+              "ToolTip": "C:\\Users\\FOUDA\\source\\repos\\question1\\question4\\Program.cs",
+              "RelativeToolTip": "question4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T16:37:28.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FOUDA\\source\\repos\\question1\\question3\\Program.cs",
+              "RelativeDocumentMoniker": "question3\\Program.cs",
+              "ToolTip": "C:\\Users\\FOUDA\\source\\repos\\question1\\question3\\Program.cs",
+              "RelativeToolTip": "question3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T15:38:38.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FOUDA\\source\\repos\\question1\\question2\\Program.cs",
+              "RelativeDocumentMoniker": "question2\\Program.cs",
+              "ToolTip": "C:\\Users\\FOUDA\\source\\repos\\question1\\question2\\Program.cs",
+              "RelativeToolTip": "question2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T14:30:27.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FOUDA\\source\\repos\\question1\\question1\\Program.cs",
+              "RelativeDocumentMoniker": "question1\\Program.cs",
+              "ToolTip": "C:\\Users\\FOUDA\\source\\repos\\question1\\question1\\Program.cs",
+              "RelativeToolTip": "question1\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwCQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T13:44:15.497Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

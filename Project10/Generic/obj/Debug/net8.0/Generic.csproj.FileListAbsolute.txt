@@ -1,0 +1,14 @@
+C:\Users\FOUDA\source\repos\Project10\Generic\bin\Debug\net8.0\Generic.exe
+C:\Users\FOUDA\source\repos\Project10\Generic\bin\Debug\net8.0\Generic.deps.json
+C:\Users\FOUDA\source\repos\Project10\Generic\bin\Debug\net8.0\Generic.runtimeconfig.json
+C:\Users\FOUDA\source\repos\Project10\Generic\bin\Debug\net8.0\Generic.dll
+C:\Users\FOUDA\source\repos\Project10\Generic\bin\Debug\net8.0\Generic.pdb
+C:\Users\FOUDA\source\repos\Project10\Generic\obj\Debug\net8.0\Generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FOUDA\source\repos\Project10\Generic\obj\Debug\net8.0\Generic.AssemblyInfoInputs.cache
+C:\Users\FOUDA\source\repos\Project10\Generic\obj\Debug\net8.0\Generic.AssemblyInfo.cs
+C:\Users\FOUDA\source\repos\Project10\Generic\obj\Debug\net8.0\Generic.csproj.CoreCompileInputs.cache
+C:\Users\FOUDA\source\repos\Project10\Generic\obj\Debug\net8.0\Generic.dll
+C:\Users\FOUDA\source\repos\Project10\Generic\obj\Debug\net8.0\refint\Generic.dll
+C:\Users\FOUDA\source\repos\Project10\Generic\obj\Debug\net8.0\Generic.pdb
+C:\Users\FOUDA\source\repos\Project10\Generic\obj\Debug\net8.0\Generic.genruntimeconfig.cache
+C:\Users\FOUDA\source\repos\Project10\Generic\obj\Debug\net8.0\ref\Generic.dll

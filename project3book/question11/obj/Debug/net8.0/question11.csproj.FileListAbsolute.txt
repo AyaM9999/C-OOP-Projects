@@ -1,0 +1,14 @@
+C:\Users\FOUDA\source\repos\question1\question11\bin\Debug\net8.0\question11.exe
+C:\Users\FOUDA\source\repos\question1\question11\bin\Debug\net8.0\question11.deps.json
+C:\Users\FOUDA\source\repos\question1\question11\bin\Debug\net8.0\question11.runtimeconfig.json
+C:\Users\FOUDA\source\repos\question1\question11\bin\Debug\net8.0\question11.dll
+C:\Users\FOUDA\source\repos\question1\question11\bin\Debug\net8.0\question11.pdb
+C:\Users\FOUDA\source\repos\question1\question11\obj\Debug\net8.0\question11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FOUDA\source\repos\question1\question11\obj\Debug\net8.0\question11.AssemblyInfoInputs.cache
+C:\Users\FOUDA\source\repos\question1\question11\obj\Debug\net8.0\question11.AssemblyInfo.cs
+C:\Users\FOUDA\source\repos\question1\question11\obj\Debug\net8.0\question11.csproj.CoreCompileInputs.cache
+C:\Users\FOUDA\source\repos\question1\question11\obj\Debug\net8.0\question11.dll
+C:\Users\FOUDA\source\repos\question1\question11\obj\Debug\net8.0\refint\question11.dll
+C:\Users\FOUDA\source\repos\question1\question11\obj\Debug\net8.0\question11.pdb
+C:\Users\FOUDA\source\repos\question1\question11\obj\Debug\net8.0\question11.genruntimeconfig.cache
+C:\Users\FOUDA\source\repos\question1\question11\obj\Debug\net8.0\ref\question11.dll

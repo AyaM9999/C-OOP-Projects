@@ -1,0 +1,14 @@
+C:\Users\FOUDA\source\repos\Demo4\bin\Debug\net8.0\Demo4.exe
+C:\Users\FOUDA\source\repos\Demo4\bin\Debug\net8.0\Demo4.deps.json
+C:\Users\FOUDA\source\repos\Demo4\bin\Debug\net8.0\Demo4.runtimeconfig.json
+C:\Users\FOUDA\source\repos\Demo4\bin\Debug\net8.0\Demo4.dll
+C:\Users\FOUDA\source\repos\Demo4\bin\Debug\net8.0\Demo4.pdb
+C:\Users\FOUDA\source\repos\Demo4\obj\Debug\net8.0\Demo4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FOUDA\source\repos\Demo4\obj\Debug\net8.0\Demo4.AssemblyInfoInputs.cache
+C:\Users\FOUDA\source\repos\Demo4\obj\Debug\net8.0\Demo4.AssemblyInfo.cs
+C:\Users\FOUDA\source\repos\Demo4\obj\Debug\net8.0\Demo4.csproj.CoreCompileInputs.cache
+C:\Users\FOUDA\source\repos\Demo4\obj\Debug\net8.0\Demo4.dll
+C:\Users\FOUDA\source\repos\Demo4\obj\Debug\net8.0\refint\Demo4.dll
+C:\Users\FOUDA\source\repos\Demo4\obj\Debug\net8.0\Demo4.pdb
+C:\Users\FOUDA\source\repos\Demo4\obj\Debug\net8.0\Demo4.genruntimeconfig.cache
+C:\Users\FOUDA\source\repos\Demo4\obj\Debug\net8.0\ref\Demo4.dll

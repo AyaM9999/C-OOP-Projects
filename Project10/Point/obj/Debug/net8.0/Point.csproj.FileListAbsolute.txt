@@ -1,0 +1,14 @@
+C:\Users\FOUDA\source\repos\Project10\Point\bin\Debug\net8.0\Point.exe
+C:\Users\FOUDA\source\repos\Project10\Point\bin\Debug\net8.0\Point.deps.json
+C:\Users\FOUDA\source\repos\Project10\Point\bin\Debug\net8.0\Point.runtimeconfig.json
+C:\Users\FOUDA\source\repos\Project10\Point\bin\Debug\net8.0\Point.dll
+C:\Users\FOUDA\source\repos\Project10\Point\bin\Debug\net8.0\Point.pdb
+C:\Users\FOUDA\source\repos\Project10\Point\obj\Debug\net8.0\Point.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FOUDA\source\repos\Project10\Point\obj\Debug\net8.0\Point.AssemblyInfoInputs.cache
+C:\Users\FOUDA\source\repos\Project10\Point\obj\Debug\net8.0\Point.AssemblyInfo.cs
+C:\Users\FOUDA\source\repos\Project10\Point\obj\Debug\net8.0\Point.csproj.CoreCompileInputs.cache
+C:\Users\FOUDA\source\repos\Project10\Point\obj\Debug\net8.0\Point.dll
+C:\Users\FOUDA\source\repos\Project10\Point\obj\Debug\net8.0\refint\Point.dll
+C:\Users\FOUDA\source\repos\Project10\Point\obj\Debug\net8.0\Point.pdb
+C:\Users\FOUDA\source\repos\Project10\Point\obj\Debug\net8.0\Point.genruntimeconfig.cache
+C:\Users\FOUDA\source\repos\Project10\Point\obj\Debug\net8.0\ref\Point.dll

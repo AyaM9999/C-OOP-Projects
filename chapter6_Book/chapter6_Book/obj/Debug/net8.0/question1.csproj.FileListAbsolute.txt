@@ -1,0 +1,14 @@
+C:\Users\FOUDA\source\repos\chapter6_Book\chapter6_Book\bin\Debug\net8.0\question1.exe
+C:\Users\FOUDA\source\repos\chapter6_Book\chapter6_Book\bin\Debug\net8.0\question1.deps.json
+C:\Users\FOUDA\source\repos\chapter6_Book\chapter6_Book\bin\Debug\net8.0\question1.runtimeconfig.json
+C:\Users\FOUDA\source\repos\chapter6_Book\chapter6_Book\bin\Debug\net8.0\question1.dll
+C:\Users\FOUDA\source\repos\chapter6_Book\chapter6_Book\bin\Debug\net8.0\question1.pdb
+C:\Users\FOUDA\source\repos\chapter6_Book\chapter6_Book\obj\Debug\net8.0\question1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FOUDA\source\repos\chapter6_Book\chapter6_Book\obj\Debug\net8.0\question1.AssemblyInfoInputs.cache
+C:\Users\FOUDA\source\repos\chapter6_Book\chapter6_Book\obj\Debug\net8.0\question1.AssemblyInfo.cs
+C:\Users\FOUDA\source\repos\chapter6_Book\chapter6_Book\obj\Debug\net8.0\question1.csproj.CoreCompileInputs.cache
+C:\Users\FOUDA\source\repos\chapter6_Book\chapter6_Book\obj\Debug\net8.0\question1.dll
+C:\Users\FOUDA\source\repos\chapter6_Book\chapter6_Book\obj\Debug\net8.0\refint\question1.dll
+C:\Users\FOUDA\source\repos\chapter6_Book\chapter6_Book\obj\Debug\net8.0\question1.pdb
+C:\Users\FOUDA\source\repos\chapter6_Book\chapter6_Book\obj\Debug\net8.0\question1.genruntimeconfig.cache
+C:\Users\FOUDA\source\repos\chapter6_Book\chapter6_Book\obj\Debug\net8.0\ref\question1.dll

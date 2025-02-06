@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FOUDA\\source\\repos\\project4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5806C302-2EC6-44B7-888E-B1DF3026CC20}|Demo2\\Demo2.csproj|c:\\users\\fouda\\source\\repos\\project4\\demo2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5806C302-2EC6-44B7-888E-B1DF3026CC20}|Demo2\\Demo2.csproj|solutionrelative:demo2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEECD74A-BE8F-4B57-A200-C8E27A6242AE}|Demo6\\Demo6.csproj|c:\\users\\fouda\\source\\repos\\project4\\demo6\\fraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEECD74A-BE8F-4B57-A200-C8E27A6242AE}|Demo6\\Demo6.csproj|solutionrelative:demo6\\fraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD3F5FD-B8B6-450A-AF92-F65D2D07E517}|Demo5\\Demo5.csproj|c:\\users\\fouda\\source\\repos\\project4\\demo5\\complexnumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD3F5FD-B8B6-450A-AF92-F65D2D07E517}|Demo5\\Demo5.csproj|solutionrelative:demo5\\complexnumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Fraction.cs",
+              "DocumentMoniker": "C:\\Users\\FOUDA\\source\\repos\\project4\\Demo6\\Fraction.cs",
+              "RelativeDocumentMoniker": "Demo6\\Fraction.cs",
+              "ToolTip": "C:\\Users\\FOUDA\\source\\repos\\project4\\Demo6\\Fraction.cs",
+              "RelativeToolTip": "Demo6\\Fraction.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAiwB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T23:56:14.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ComplexNumbers.cs",
+              "DocumentMoniker": "C:\\Users\\FOUDA\\source\\repos\\project4\\Demo5\\ComplexNumbers.cs",
+              "RelativeDocumentMoniker": "Demo5\\ComplexNumbers.cs",
+              "ToolTip": "C:\\Users\\FOUDA\\source\\repos\\project4\\Demo5\\ComplexNumbers.cs",
+              "RelativeToolTip": "Demo5\\ComplexNumbers.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T23:36:21.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\FOUDA\\source\\repos\\project4\\Demo2\\Employee.cs",
+              "RelativeDocumentMoniker": "Demo2\\Employee.cs",
+              "ToolTip": "C:\\Users\\FOUDA\\source\\repos\\project4\\Demo2\\Employee.cs",
+              "RelativeToolTip": "Demo2\\Employee.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAiwDAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T23:16:01.124Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FOUDA\\source\\repos\\Project11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82AA0097-A39D-46D3-89CA-69EDD462E983}|Book\\Book.csproj|c:\\users\\fouda\\source\\repos\\project11\\book\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AA0097-A39D-46D3-89CA-69EDD462E983}|Book\\Book.csproj|solutionrelative:book\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AA0097-A39D-46D3-89CA-69EDD462E983}|Book\\Book.csproj|c:\\users\\fouda\\source\\repos\\project11\\book\\libraryengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AA0097-A39D-46D3-89CA-69EDD462E983}|Book\\Book.csproj|solutionrelative:book\\libraryengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AA0097-A39D-46D3-89CA-69EDD462E983}|Book\\Book.csproj|c:\\users\\fouda\\source\\repos\\project11\\book\\bookfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AA0097-A39D-46D3-89CA-69EDD462E983}|Book\\Book.csproj|solutionrelative:book\\bookfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AA0097-A39D-46D3-89CA-69EDD462E983}|Book\\Book.csproj|c:\\users\\fouda\\source\\repos\\project11\\book\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AA0097-A39D-46D3-89CA-69EDD462E983}|Book\\Book.csproj|solutionrelative:book\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAE549E-F9E0-4274-9CC5-F2C03FCE2EA5}|Game\\Game.csproj|c:\\users\\fouda\\source\\repos\\project11\\game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AAE549E-F9E0-4274-9CC5-F2C03FCE2EA5}|Game\\Game.csproj|solutionrelative:game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CABAD552-8EC6-46D7-BF41-DBEE65EEF2F2}|Demo2\\Demo2.csproj|c:\\users\\fouda\\source\\repos\\project11\\demo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CABAD552-8EC6-46D7-BF41-DBEE65EEF2F2}|Demo2\\Demo2.csproj|solutionrelative:demo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAE549E-F9E0-4274-9CC5-F2C03FCE2EA5}|Game\\Game.csproj|c:\\users\\fouda\\source\\repos\\project11\\game\\deltaposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AAE549E-F9E0-4274-9CC5-F2C03FCE2EA5}|Game\\Game.csproj|solutionrelative:game\\deltaposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAE549E-F9E0-4274-9CC5-F2C03FCE2EA5}|Game\\Game.csproj|c:\\users\\fouda\\source\\repos\\project11\\game\\frere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AAE549E-F9E0-4274-9CC5-F2C03FCE2EA5}|Game\\Game.csproj|solutionrelative:game\\frere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAE549E-F9E0-4274-9CC5-F2C03FCE2EA5}|Game\\Game.csproj|c:\\users\\fouda\\source\\repos\\project11\\game\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AAE549E-F9E0-4274-9CC5-F2C03FCE2EA5}|Game\\Game.csproj|solutionrelative:game\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAE549E-F9E0-4274-9CC5-F2C03FCE2EA5}|Game\\Game.csproj|c:\\users\\fouda\\source\\repos\\project11\\game\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AAE549E-F9E0-4274-9CC5-F2C03FCE2EA5}|Game\\Game.csproj|solutionrelative:game\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAE549E-F9E0-4274-9CC5-F2C03FCE2EA5}|Game\\Game.csproj|c:\\users\\fouda\\source\\repos\\project11\\game\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AAE549E-F9E0-4274-9CC5-F2C03FCE2EA5}|Game\\Game.csproj|solutionrelative:game\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibraryEngine.cs",
+              "DocumentMoniker": "C:\\Users\\FOUDA\\source\\repos\\Project11\\Book\\LibraryEngine.cs",
+              "RelativeDocumentMoniker": "Book\\LibraryEngine.cs",
+              "ToolTip": "C:\\Users\\FOUDA\\source\\repos\\Project11\\Book\\LibraryEngine.cs",
+              "RelativeToolTip": "Book\\LibraryEngine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T13:18:32.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookFunctions.cs",
+              "DocumentMoniker": "C:\\Users\\FOUDA\\source\\repos\\Project11\\Book\\BookFunctions.cs",
+              "RelativeDocumentMoniker": "Book\\BookFunctions.cs",
+              "ToolTip": "C:\\Users\\FOUDA\\source\\repos\\Project11\\Book\\BookFunctions.cs",
+              "RelativeToolTip": "Book\\BookFunctions.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwBsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T13:17:00.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\FOUDA\\source\\repos\\Project11\\Book\\Book.cs",
+              "RelativeDocumentMoniker": "Book\\Book.cs",
+              "ToolTip": "C:\\Users\\FOUDA\\source\\repos\\Project11\\Book\\Book.cs",
+              "RelativeToolTip": "Book\\Book.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAjwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T13:16:51.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FOUDA\\source\\repos\\Project11\\Book\\Program.cs",
+              "RelativeDocumentMoniker": "Book\\Program.cs",
+              "ToolTip": "C:\\Users\\FOUDA\\source\\repos\\Project11\\Book\\Program.cs",
+              "RelativeToolTip": "Book\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T13:11:28.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FOUDA\\source\\repos\\Project11\\Demo2\\Program.cs",
+              "RelativeDocumentMoniker": "Demo2\\Program.cs",
+              "ToolTip": "C:\\Users\\FOUDA\\source\\repos\\Project11\\Demo2\\Program.cs",
+              "RelativeToolTip": "Demo2\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAD4vysAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T13:08:06.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Ball.cs",
+              "DocumentMoniker": "C:\\Users\\FOUDA\\source\\repos\\Project11\\Game\\Ball.cs",
+              "RelativeDocumentMoniker": "Game\\Ball.cs",
+              "ToolTip": "C:\\Users\\FOUDA\\source\\repos\\Project11\\Game\\Ball.cs",
+              "RelativeToolTip": "Game\\Ball.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T10:47:35.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeltaPosition.cs",
+              "DocumentMoniker": "C:\\Users\\FOUDA\\source\\repos\\Project11\\Game\\DeltaPosition.cs",
+              "RelativeDocumentMoniker": "Game\\DeltaPosition.cs",
+              "ToolTip": "C:\\Users\\FOUDA\\source\\repos\\Project11\\Game\\DeltaPosition.cs",
+              "RelativeToolTip": "Game\\DeltaPosition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T11:30:52.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Frere.cs",
+              "DocumentMoniker": "C:\\Users\\FOUDA\\source\\repos\\Project11\\Game\\Frere.cs",
+              "RelativeDocumentMoniker": "Game\\Frere.cs",
+              "ToolTip": "C:\\Users\\FOUDA\\source\\repos\\Project11\\Game\\Frere.cs",
+              "RelativeToolTip": "Game\\Frere.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T11:04:10.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\FOUDA\\source\\repos\\Project11\\Game\\Player.cs",
+              "RelativeDocumentMoniker": "Game\\Player.cs",
+              "ToolTip": "C:\\Users\\FOUDA\\source\\repos\\Project11\\Game\\Player.cs",
+              "RelativeToolTip": "Game\\Player.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIA3wBkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T10:57:35.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\Users\\FOUDA\\source\\repos\\Project11\\Game\\Point.cs",
+              "RelativeDocumentMoniker": "Game\\Point.cs",
+              "ToolTip": "C:\\Users\\FOUDA\\source\\repos\\Project11\\Game\\Point.cs",
+              "RelativeToolTip": "Game\\Point.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAEwAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T10:40:52.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FOUDA\\source\\repos\\Project11\\Game\\Program.cs",
+              "RelativeDocumentMoniker": "Game\\Program.cs",
+              "ToolTip": "C:\\Users\\FOUDA\\source\\repos\\Project11\\Game\\Program.cs",
+              "RelativeToolTip": "Game\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAD4vyQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T10:38:56.663Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+C:\Users\FOUDA\source\repos\advanced_project_Desktop Apps\RegiserationForm\bin\Debug\net8.0-windows\RegiserationForm.exe
+C:\Users\FOUDA\source\repos\advanced_project_Desktop Apps\RegiserationForm\bin\Debug\net8.0-windows\RegiserationForm.deps.json
+C:\Users\FOUDA\source\repos\advanced_project_Desktop Apps\RegiserationForm\bin\Debug\net8.0-windows\RegiserationForm.runtimeconfig.json
+C:\Users\FOUDA\source\repos\advanced_project_Desktop Apps\RegiserationForm\bin\Debug\net8.0-windows\RegiserationForm.dll
+C:\Users\FOUDA\source\repos\advanced_project_Desktop Apps\RegiserationForm\bin\Debug\net8.0-windows\RegiserationForm.pdb
+C:\Users\FOUDA\source\repos\advanced_project_Desktop Apps\RegiserationForm\obj\Debug\net8.0-windows\RegiserationForm.Form1.resources
+C:\Users\FOUDA\source\repos\advanced_project_Desktop Apps\RegiserationForm\obj\Debug\net8.0-windows\RegiserationForm.csproj.GenerateResource.cache
+C:\Users\FOUDA\source\repos\advanced_project_Desktop Apps\RegiserationForm\obj\Debug\net8.0-windows\RegiserationForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FOUDA\source\repos\advanced_project_Desktop Apps\RegiserationForm\obj\Debug\net8.0-windows\RegiserationForm.AssemblyInfoInputs.cache
+C:\Users\FOUDA\source\repos\advanced_project_Desktop Apps\RegiserationForm\obj\Debug\net8.0-windows\RegiserationForm.AssemblyInfo.cs
+C:\Users\FOUDA\source\repos\advanced_project_Desktop Apps\RegiserationForm\obj\Debug\net8.0-windows\RegiserationForm.csproj.CoreCompileInputs.cache
+C:\Users\FOUDA\source\repos\advanced_project_Desktop Apps\RegiserationForm\obj\Debug\net8.0-windows\RegiserationForm.dll
+C:\Users\FOUDA\source\repos\advanced_project_Desktop Apps\RegiserationForm\obj\Debug\net8.0-windows\refint\RegiserationForm.dll
+C:\Users\FOUDA\source\repos\advanced_project_Desktop Apps\RegiserationForm\obj\Debug\net8.0-windows\RegiserationForm.pdb
+C:\Users\FOUDA\source\repos\advanced_project_Desktop Apps\RegiserationForm\obj\Debug\net8.0-windows\RegiserationForm.genruntimeconfig.cache
+C:\Users\FOUDA\source\repos\advanced_project_Desktop Apps\RegiserationForm\obj\Debug\net8.0-windows\ref\RegiserationForm.dll

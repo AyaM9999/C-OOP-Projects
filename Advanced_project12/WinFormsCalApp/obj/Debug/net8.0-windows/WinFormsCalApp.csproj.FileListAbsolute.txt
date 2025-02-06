@@ -1,0 +1,16 @@
+C:\Users\FOUDA\source\repos\advanced_project_Desktop Apps\WinFormsCalApp\bin\Debug\net8.0-windows\WinFormsCalApp.exe
+C:\Users\FOUDA\source\repos\advanced_project_Desktop Apps\WinFormsCalApp\bin\Debug\net8.0-windows\WinFormsCalApp.deps.json
+C:\Users\FOUDA\source\repos\advanced_project_Desktop Apps\WinFormsCalApp\bin\Debug\net8.0-windows\WinFormsCalApp.runtimeconfig.json
+C:\Users\FOUDA\source\repos\advanced_project_Desktop Apps\WinFormsCalApp\bin\Debug\net8.0-windows\WinFormsCalApp.dll
+C:\Users\FOUDA\source\repos\advanced_project_Desktop Apps\WinFormsCalApp\bin\Debug\net8.0-windows\WinFormsCalApp.pdb
+C:\Users\FOUDA\source\repos\advanced_project_Desktop Apps\WinFormsCalApp\obj\Debug\net8.0-windows\WinFormsCalApp.Form1.resources
+C:\Users\FOUDA\source\repos\advanced_project_Desktop Apps\WinFormsCalApp\obj\Debug\net8.0-windows\WinFormsCalApp.csproj.GenerateResource.cache
+C:\Users\FOUDA\source\repos\advanced_project_Desktop Apps\WinFormsCalApp\obj\Debug\net8.0-windows\WinFormsCalApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FOUDA\source\repos\advanced_project_Desktop Apps\WinFormsCalApp\obj\Debug\net8.0-windows\WinFormsCalApp.AssemblyInfoInputs.cache
+C:\Users\FOUDA\source\repos\advanced_project_Desktop Apps\WinFormsCalApp\obj\Debug\net8.0-windows\WinFormsCalApp.AssemblyInfo.cs
+C:\Users\FOUDA\source\repos\advanced_project_Desktop Apps\WinFormsCalApp\obj\Debug\net8.0-windows\WinFormsCalApp.csproj.CoreCompileInputs.cache
+C:\Users\FOUDA\source\repos\advanced_project_Desktop Apps\WinFormsCalApp\obj\Debug\net8.0-windows\WinFormsCalApp.dll
+C:\Users\FOUDA\source\repos\advanced_project_Desktop Apps\WinFormsCalApp\obj\Debug\net8.0-windows\refint\WinFormsCalApp.dll
+C:\Users\FOUDA\source\repos\advanced_project_Desktop Apps\WinFormsCalApp\obj\Debug\net8.0-windows\WinFormsCalApp.pdb
+C:\Users\FOUDA\source\repos\advanced_project_Desktop Apps\WinFormsCalApp\obj\Debug\net8.0-windows\WinFormsCalApp.genruntimeconfig.cache
+C:\Users\FOUDA\source\repos\advanced_project_Desktop Apps\WinFormsCalApp\obj\Debug\net8.0-windows\ref\WinFormsCalApp.dll

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FOUDA\\source\\repos\\AdvancedProject7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62331E8F-A4A7-4AFD-ABA5-2EAF7FF6B1E7}|Demo1\\Demo1.csproj|c:\\users\\fouda\\source\\repos\\advancedproject7\\demo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62331E8F-A4A7-4AFD-ABA5-2EAF7FF6B1E7}|Demo1\\Demo1.csproj|solutionrelative:demo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62331E8F-A4A7-4AFD-ABA5-2EAF7FF6B1E7}|Demo1\\Complex.csproj|c:\\users\\fouda\\source\\repos\\advancedproject7\\demo1\\complexnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62331E8F-A4A7-4AFD-ABA5-2EAF7FF6B1E7}|Demo1\\Complex.csproj|solutionrelative:demo1\\complexnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ComplexNumber.cs",
+              "DocumentMoniker": "C:\\Users\\FOUDA\\source\\repos\\AdvancedProject7\\Demo1\\ComplexNumber.cs",
+              "RelativeDocumentMoniker": "Demo1\\ComplexNumber.cs",
+              "ToolTip": "C:\\Users\\FOUDA\\source\\repos\\AdvancedProject7\\Demo1\\ComplexNumber.cs*",
+              "RelativeToolTip": "Demo1\\ComplexNumber.cs*",
+              "ViewState": "AgIAAE4AAAAAAAAAAAA8wGAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T20:04:46.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FOUDA\\source\\repos\\AdvancedProject7\\Demo1\\Program.cs",
+              "RelativeDocumentMoniker": "Demo1\\Program.cs",
+              "ToolTip": "C:\\Users\\FOUDA\\source\\repos\\AdvancedProject7\\Demo1\\Program.cs*",
+              "RelativeToolTip": "Demo1\\Program.cs*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAuwDYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T20:02:20.454Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
